@@ -2,7 +2,7 @@
 
 A 47-second audiovisual adaptation of the concert-escape scene from Chapter 1 of Snowmoon by Vitalik Buterin (https://vitalik.eth.limo/snowmoon/), made for the poidh "Bring Snowmoon to Life" bounty.
 
-Video: PASTE VIDEO LINK HERE
+Video: https://x.com/mariabazooka/status/2105765980597354936?s=46
 
 ## How it was made
 Everything is generated from code. No AI-generated images, audio or video.
